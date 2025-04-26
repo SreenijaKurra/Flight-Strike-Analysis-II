@@ -3,7 +3,7 @@
 https://public.tableau.com/views/WildlifestrikeAnalysis/PointofImpactD2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Same introduction as part I. The flying animals be really messing things up for us. They just flexing their wings and there they go boom.
-teh dashboard visually describes the point of impact of wildlife strikes. 
+The dashboard visually describes the point of impact of wildlife strikes. 
 
 Going clockwise, the first visual shows at what altitude most of the birdy strikes occur. Most of the strikes are near the ground(0 feet). This is the usual flying elevation of the birds, the flex isn't worth the hype anyway. The second visual shows the number of strikes by airport. At the south and central locations of the country, we find the highest wildlife strikes. Texas has the highest reported strikes! Most of the attacks are by flighted animals, and very few by terrestrial mammals. 
 

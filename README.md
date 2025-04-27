@@ -9,8 +9,8 @@ Going clockwise, the first visual shows at what altitude most of the birdy strik
 
 If I am bored of thinking ideas for more git repos, I will complete writing this analysis. For now this is all you get.
 
-The third 
-phase of flight
+The third one displays the phase of flights: at what phase of the flight's journey did the strikes occur. There is not any damage when the flight is stationed at the airports. The issue arises when the airplane is moving, a few cases when the 
+
 time of day of strikes
 
 <!DOCTYPE html>

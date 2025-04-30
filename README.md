@@ -9,6 +9,7 @@ Going clockwise, the first visual shows at what altitude most of the birdy strik
 
 The third one displays the phase of flights: at what phase of the flight's journey did the strikes occur. There is not any damage when the flight is stationed at the airports. The issue arises when the airplane is moving, a few cases when the plane is taxing to the runway. Most of the hits occured when the airplane is either in take off, landing or in climb/descent. The final visual shows the time of day of strikes. The strikes occur mid day when the sky is clear or at night when there is no visibility. It is surprising to see low number of strikes during dawn and dusk.  
 
+<h2>What's the takeaway?</h2>
 If you ask what's the point of this dashboard, it is not impactful to take the insights seriously from past data. We need new information and many more parameters such as usual flight trajectories and bird breeding seasons. The information is useful to understand high activities of these beings and how we can better protect their lives while making sure we do not bleed our engines and keep our lives at stake. 
 
 If I am bored of thinking ideas for more git repos, I will complete writing this analysis. For now this is all I have...

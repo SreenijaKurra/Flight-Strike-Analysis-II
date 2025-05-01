@@ -12,6 +12,7 @@ The third one displays the phase of flights: at what phase of the flight's journ
 <h2>What's the takeaway?</h2>
 If you ask what's the point of this dashboard, currently it is not impactful to take the insights seriously from past data. We need new information and many more parameters such as usual flight trajectories and bird breeding seasons. The information is useful to understand high activities of these beings and how we can better protect their lives while making sure we do not bleed our engines and keep our lives at stake. 
 
+<br> <br>
 <br>
 If I am bored of thinking ideas for more git repos, I will complete writing this analysis. For now this is all I have...
 
